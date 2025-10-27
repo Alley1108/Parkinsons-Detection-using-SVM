@@ -1,0 +1,4 @@
+Subject Id,Jitter (local),"Jitter (local, absolute)",Jitter (rap),Jitter (ppq5),Jitter (ddp),Shimmer (local),"Shimmer (local, dB)",Shimmer (apq3),Shimmer (apq5),Shimmer (apq11),Shimmer (dda),AC,NTH,HTN,Median pitch,Mean pitch,SD,Minimum pitch,Maximum Pitch,Number of pulses,Number of periods,Mean period,SD of period,Parkinson
+1,0.382,16.907E-6,0.202,0.238,0.607,6.864,0.608,3.476,4.347,6.124,10.429,0.978402,0.023120,18.296,225.623,225.779,3.312,211.764,233.855,600,599,4.428863E-3,0.068556E-3
+1,0.528,47.861E-6,0.277,0.335,0.831,9.245,0.828,4.847,6.279,8.145,14.540,0.962411,0.039807,15.631,106.835,110.263,8.659,101.557,139.360,332,331,9.069115E-3,0.673784E-3
+
